@@ -6,7 +6,7 @@ public class New_Project {
 		// TODO Auto-generated method stub
 System.out.println(" i love pizza");
 System.out.println(" i love pizza");
-System.out.println(" i love pizza");
+System.out.println(" i love pizza and cocacola");
 	}
 
 }
